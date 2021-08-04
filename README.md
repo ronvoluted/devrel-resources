@@ -6,6 +6,7 @@
 - [Developer Marketing & Relations](https://www.amazon.com/Developer-Marketing-Relations-Essential-Guide/dp/B08KH3T5TN) by [SlashData](https://twitter.com/SlashDataHQ)
 - [Getting Started in Developer Relations](https://learn.samjulien.com/getting-started-in-developer-relations) by [Sam Julien](https://twitter.com/samjulien)
 - [The Developer's Guide to Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) by [Stephanie Morillo](https://twitter.com/radiomorillo)
+- [The Developer Advocacy Handbook](https://developer-advocacy.com/) by [Christian Heilmann](https://twitter.com/codepo8)
 
 # Blogs
 - [DevRel.co](https://devrel.co/blog/)
